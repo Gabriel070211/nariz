@@ -1,0 +1,40 @@
+body{
+    background-image: url("landscape-1497533116-not-dead.gif");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.heading
+  {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(0, 3, 0);
+    padding: 20px;
+    background-color: rgba(0, 0, 46, 0.637);
+    color:white ;
+    height: 150px;
+    
+  }
+  .note
+  {
+    font-size: 15px;
+    color: white;
+  }
+  .copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:grey;
+    line-height: 3;
+    text-align: center;
+ }
+  canvas 
+  {
+    border:5px solid aquamarine;
+    border-radius:20px;
+    box-shadow:5px 5px 15px red;
+    margin-top: 30px;
+  }
+ 
